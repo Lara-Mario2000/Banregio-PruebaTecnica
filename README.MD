@@ -80,15 +80,15 @@ Donde el:
 
 Del análisis del gráfico de tipo caja, podemos destacar dos observaciones importantes. En primer lugar, podemos confirmar la información previamente mencionada, ya que la mediana se encuentra en el centro de la caja, lo que indica una concentración de calificaciones en un rango intermedio, acompañada de una dispersión moderada. En segundo lugar, se observa que la mayoría de las calificaciones se sitúan por debajo de 60, lo que sugiere que la gran mayoría de los alumnos no han obtenido calificaciones aprobatorias.
 
-![Boxplot](./imgs/Boxplot.png)
+![Boxplot](./imgs/boxplot.png)
 
-## Correlación entre las horas de estudio y las calificaciones.
+## Correlación entre las horas de estudio y las calificaciones
 
 Se aplicó una función para calcular la correlación entre las horas de estudio y las calificaciones, obteniendo un resultado de 0.93. Esto indica que a medida que las horas de estudio aumentan, las calificaciones tienden a ser más altas. En otras palabras, existe una relación directa y positiva entre el tiempo dedicado al estudio y las calificaciones.
 
 ![Scatter](./imgs/correlation.png)
 
-## Propuesta de mejora.
+## Propuesta de mejora
 
 Como hipótesis para una propuesta de mejora, se plantea aumentar el tiempo de estudio de los estudiantes con el objetivo de alcanzar un promedio de calificaciones en el rango de 80-90. Esto se haría con la intención de garantizar que la mayoría de los estudiantes logren aprobar sus exámenes.
 
