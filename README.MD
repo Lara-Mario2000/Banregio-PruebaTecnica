@@ -1,4 +1,4 @@
-# Banregio - Prueba técnica
+# Banregio - Prueba Técnica
 
 Resultados del análisis de las horas dedicadas y las calificaciones obtenidas por los estudiantes utilizando Python.
 
