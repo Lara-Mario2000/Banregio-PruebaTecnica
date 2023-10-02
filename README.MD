@@ -1,6 +1,6 @@
-# Banregio - Entrevista Tecnica
+# Banregio - Prueba técnica
 
-Resultados del análisis de las horas dedicadas y las calificaciones obtenidas por los estudiantes utilizando la biblioteca de pandas en Python.
+Resultados del análisis de las horas dedicadas y las calificaciones obtenidas por los estudiantes utilizando Python.
 
 ## Dependencias
 
